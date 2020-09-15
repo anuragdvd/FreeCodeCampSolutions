@@ -1,0 +1,75 @@
+body{
+	color:#333333;
+	font-family: "Crimson Text", sans-serif, Arial, "Helevtica";
+	font-size: 1.6rem;
+	line-height: 1.5;
+
+}
+
+#main{
+	text-align: center;
+	font-family: "Crimson Text", sans-serif, Arial;
+	background: #eeeeee;
+	padding:15px;
+	margin:15px 8px 8px 15px;
+}
+
+#title{
+	font-size:4rem;
+}
+
+img{
+	display: block;
+	margin:0 auto; /* aligning to the center */ 
+	max-width: 100%;
+
+}
+
+#img-div{
+	padding: 1%;
+	background: #ffffff;
+	color: #ffffff;
+
+
+}
+
+#img-caption{
+	color:#000000;
+	text-align: center;
+	font-size: 1rem;
+	margin:15px 0 15px 0;
+}
+
+
+#info{
+	text-align: center;
+	padding:20px 0;
+}
+
+h3{
+	font-size:1.3rem;
+}
+
+ul{
+	padding:10px 0;
+	margin: 0 auto;
+	text-align: left;
+	max-width: 600px;
+
+}
+
+li{
+	margin:20px 0 0 20px;
+	font-size:1.2rem;
+}
+
+#quote{
+	max-width: 600px;
+	text-align: left;
+	padding:10px 0;
+	margin: 0 auto;
+}
+
+a:visited{
+	color:#655a78;
+}
