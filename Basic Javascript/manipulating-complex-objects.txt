@@ -1,0 +1,20 @@
+var myMusic = [
+  {
+    "artist": "Billy Joel",
+    "title": "Piano Man",
+    "release_year": 1973,
+    "formats": [
+      "CD",
+      "8T",
+      "LP"
+    ],
+    "gold": true
+  },
+  {
+    "artist":"hmm",
+    "title":"hmm",
+    "release_year":20121,
+    "formats":[ "CD" , "DVD" , "PB" ]
+  }
+  // Add a record here
+];
